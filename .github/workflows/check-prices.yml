@@ -1,0 +1,35 @@
+name: Check TV prices
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # varannan timme
+  workflow_dispatch: {}       # gör att du kan klicka "Run workflow" manuellt
+
+permissions:
+  contents: write
+
+jobs:
+  check-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installera beroenden
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Kör prisbevakaren
+        run: python scraper.py
+
+      - name: Spara uppdaterad data
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add data.json price_history.db
+          git diff --quiet --cached || git commit -m "Uppdaterade priser"
+          git push
