@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TCL TV-bevakare</title>
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-950 text-gray-100 min-h-screen">
+<div class="max-w-4xl mx-auto p-6">
+  <h1 class="text-2xl font-bold mb-1">TCL 55–65″ prisbevakning</h1>
+  <p class="text-gray-400 mb-6 text-sm">
+    Uppdateras automatiskt av GitHub Actions var 2:a timme. Senast kollad: <span id="updated">–</span>
+  </p>
+  <div id="cards" class="grid gap-4 sm:grid-cols-2"></div>
+  <p id="empty" class="text-gray-500 hidden">
+    Inga träffar just nu inom ditt filter (5 000–10 000 kr).
+  </p>
+</div>
+<script>
+fetch('data.json?_=' + Date.now())
+  .then(r => r.json())
+  .then(items => {
+    const cards = document.getElementById('cards');
+    const empty = document.getElementById('empty');
+    if (!items.length) { empty.classList.remove('hidden'); return; }
+
+    let latest = items[0].checked_at;
+    items.forEach(i => { if (i.checked_at > latest) latest = i.checked_at; });
+    document.getElementById('updated').textContent = new Date(latest).toLocaleString('sv-SE');
+
+    items.sort((a, b) => a.price - b.price).forEach(i => {
+      const isAllTimeLow = i.price <= i.all_time_low;
+      const dropped = i.drop_percent && i.drop_percent > 0;
+
+      let badges = '';
+      if (isAllTimeLow) {
+        badges += `<span class="text-xs bg-green-900 text-green-300 rounded px-2 py-0.5">historiskt lägsta</span>`;
+      }
+      if (dropped) {
+        badges += `<span class="text-xs bg-amber-900 text-amber-300 rounded px-2 py-0.5 ml-2">-${i.drop_percent}%</span>`;
+      }
+
+      cards.insertAdjacentHTML('beforeend', `
+        <a href="${i.url}" target="_blank" rel="noopener"
+           class="block rounded-xl bg-gray-900 border border-gray-800 p-4 hover:border-gray-600 transition">
+          <div class="text-xs uppercase tracking-wide text-gray-500 mb-1">${i.source}</div>
+          <div class="font-semibold mb-2">${i.model}${i.size ? ' · ' + i.size + '"' : ''}</div>
+          <div class="flex items-baseline gap-2 mb-1">
+            <span class="text-2xl font-bold ${isAllTimeLow ? 'text-green-400' : 'text-gray-100'}">${i.price} kr</span>
+          </div>
+          <div class="mb-2">${badges}</div>
+          <div class="text-xs text-gray-500">
+            Historiskt lägsta: ${i.all_time_low} kr
+            ${i.previous_price ? ' · Föregående: ' + i.previous_price + ' kr' : ''}
+          </div>
+        </a>
+      `);
+    });
+  })
+  .catch(() => {
+    const empty = document.getElementById('empty');
+    empty.textContent = 'Ingen data ännu — vänta på första körningen (kör "Run workflow" manuellt för att testa direkt).';
+    empty.classList.remove('hidden');
+  });
+</script>
+</body>
+</html>
