@@ -32,7 +32,7 @@ import config
 # ---- Sidspecifik konfiguration ----
 
 SEARCH_URLS = {
-    "prisjakt": "https://www.prisjakt.nu/search?search={brand}+tv",
+    "prisjakt": "https://www.prisjakt.nu/s/{brand_lower}-tv/",
     "pricerunner": "https://www.pricerunner.se/sp/{brand_lower}-55.html",
 }
 
