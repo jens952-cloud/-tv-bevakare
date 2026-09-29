@@ -1,50 +1,6 @@
 [
   {
     "source": "pricerunner",
-    "model": "TCL 55 C69KS 4K QD Mini LED Google TV",
-    "size": 55,
-    "price": 5997,
-    "all_time_low": 5977,
-    "previous_price": 6250,
-    "drop_percent": 4.0,
-    "url": "https://www.pricerunner.se/pl/2-3412707088/TV/TCL-55-C69KS-4K-QD-Mini-LED-Google-TV-priser",
-    "checked_at": "2026-09-29T02:12:28.920237+00:00"
-  },
-  {
-    "source": "pricerunner",
-    "model": "TCL 55 Inch 4K Viewable LED TV",
-    "size": 55,
-    "price": 5370,
-    "all_time_low": 5089,
-    "previous_price": 5370,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3414475753/TV/TCL-55T69C-55-Inch-4K-QLED-QLED-TV-priser",
-    "checked_at": "2026-09-29T02:12:28.922529+00:00"
-  },
-  {
-    "source": "pricerunner",
-    "model": "Trendande",
-    "size": null,
-    "price": 8763,
-    "all_time_low": 6990,
-    "previous_price": 8763,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3489604449/TV/TCL-55C6K-Pro-55-QD-Mini-LED-priser",
-    "checked_at": "2026-09-29T02:12:28.923969+00:00"
-  },
-  {
-    "source": "pricerunner",
-    "model": "TCL 55 A400 Pro 4K QD Mini-LED TV",
-    "size": null,
-    "price": 8290,
-    "all_time_low": 8290,
-    "previous_price": 8290,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3489138046/TV/TCL-55a400-Pro-Qd-Mini-Led-Tv-priser",
-    "checked_at": "2026-09-29T02:12:28.924777+00:00"
-  },
-  {
-    "source": "pricerunner",
     "model": "TCL 55C6K 4K Ultra HD 55 HDR QLED TV",
     "size": null,
     "price": 5276,
@@ -56,6 +12,50 @@
   },
   {
     "source": "pricerunner",
+    "model": "TCL 55 C69KS 4K QD Mini LED Google TV",
+    "size": 55,
+    "price": 5997,
+    "all_time_low": 5977,
+    "previous_price": 5997,
+    "drop_percent": 0.0,
+    "url": "https://www.pricerunner.se/pl/2-3412707088/TV/TCL-55-C69KS-4K-QD-Mini-LED-Google-TV-priser",
+    "checked_at": "2026-09-29T04:14:08.699087+00:00"
+  },
+  {
+    "source": "pricerunner",
+    "model": "TCL 55 Inch 4K Viewable LED TV",
+    "size": 55,
+    "price": 5375,
+    "all_time_low": 5089,
+    "previous_price": 5370,
+    "drop_percent": -0.1,
+    "url": "https://www.pricerunner.se/pl/2-3414475753/TV/TCL-55T69C-55-Inch-4K-QLED-QLED-TV-priser",
+    "checked_at": "2026-09-29T04:14:08.700437+00:00"
+  },
+  {
+    "source": "pricerunner",
+    "model": "TCL 55 A400 Pro 4K QD Mini-LED TV",
+    "size": null,
+    "price": 8290,
+    "all_time_low": 8290,
+    "previous_price": 8290,
+    "drop_percent": 0.0,
+    "url": "https://www.pricerunner.se/pl/2-3489138046/TV/TCL-55a400-Pro-Qd-Mini-Led-Tv-priser",
+    "checked_at": "2026-09-29T04:14:08.702014+00:00"
+  },
+  {
+    "source": "pricerunner",
+    "model": "Trendande",
+    "size": 55,
+    "price": 5394,
+    "all_time_low": 5394,
+    "previous_price": 8763,
+    "drop_percent": 38.4,
+    "url": "https://www.pricerunner.se/pl/2-3409486320/TV/TCL-55-MQLED80K-4K-Mini-Led-TV-priser",
+    "checked_at": "2026-09-29T04:14:08.702755+00:00"
+  },
+  {
+    "source": "pricerunner",
     "model": "TCL 55\" P69K 4K LED TV",
     "size": 55,
     "price": 6825,
@@ -63,7 +63,7 @@
     "previous_price": 6825,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3407601088/TV/TCL-55-P69K-4K-LED-TV-priser",
-    "checked_at": "2026-09-29T02:12:28.926371+00:00"
+    "checked_at": "2026-09-29T04:14:08.703531+00:00"
   },
   {
     "source": "pricerunner",
@@ -74,6 +74,17 @@
     "previous_price": 8990,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3489602508/TV/TCL-55-55A400U-priser",
-    "checked_at": "2026-09-29T02:12:28.927164+00:00"
+    "checked_at": "2026-09-29T04:14:08.704659+00:00"
+  },
+  {
+    "source": "pricerunner",
+    "model": "-38%",
+    "size": 55,
+    "price": 7990,
+    "all_time_low": 7990,
+    "previous_price": null,
+    "drop_percent": null,
+    "url": "https://www.pricerunner.se/pl/2-3407791597/TV/TCL-55-MQLED75K-4K-Mini-Led-TV-priser",
+    "checked_at": "2026-09-29T04:14:08.705405+00:00"
   }
 ]
