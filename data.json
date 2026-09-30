@@ -12,17 +12,6 @@
   },
   {
     "source": "pricerunner",
-    "model": "TCL 55\" P69K 4K LED TV",
-    "size": 55,
-    "price": 6959,
-    "all_time_low": 6565,
-    "previous_price": 6959,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3407601088/TV/TCL-55-P69K-4K-LED-TV-priser",
-    "checked_at": "2026-09-30T02:13:29.498049+00:00"
-  },
-  {
-    "source": "pricerunner",
     "model": "-38%",
     "size": 55,
     "price": 7990,
@@ -47,12 +36,12 @@
     "source": "pricerunner",
     "model": "TCL 55 C69KS 4K QD Mini LED Google TV",
     "size": 55,
-    "price": 6003,
+    "price": 6249,
     "all_time_low": 5977,
     "previous_price": 6003,
-    "drop_percent": 0.0,
+    "drop_percent": -4.1,
     "url": "https://www.pricerunner.se/pl/2-3412707088/TV/TCL-55-C69KS-4K-QD-Mini-LED-Google-TV-priser",
-    "checked_at": "2026-09-30T12:19:30.401479+00:00"
+    "checked_at": "2026-09-30T14:18:04.274532+00:00"
   },
   {
     "source": "pricerunner",
@@ -63,7 +52,7 @@
     "previous_price": 5375,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3414475753/TV/TCL-55T69C-55-Inch-4K-QLED-QLED-TV-priser",
-    "checked_at": "2026-09-30T12:19:30.403535+00:00"
+    "checked_at": "2026-09-30T14:18:04.276508+00:00"
   },
   {
     "source": "pricerunner",
@@ -74,7 +63,7 @@
     "previous_price": 8290,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3489138046/TV/TCL-55a400-Pro-Qd-Mini-Led-Tv-priser",
-    "checked_at": "2026-09-30T12:19:30.404422+00:00"
+    "checked_at": "2026-09-30T14:18:04.277435+00:00"
   },
   {
     "source": "pricerunner",
@@ -85,7 +74,7 @@
     "previous_price": 8990,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3489602508/TV/TCL-55-55A400U-priser",
-    "checked_at": "2026-09-30T12:19:30.405139+00:00"
+    "checked_at": "2026-09-30T14:18:04.283351+00:00"
   },
   {
     "source": "pricerunner",
@@ -96,6 +85,17 @@
     "previous_price": 5844,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3409486320/TV/TCL-55-MQLED80K-4K-Mini-Led-TV-priser",
-    "checked_at": "2026-09-30T12:19:30.405876+00:00"
+    "checked_at": "2026-09-30T14:18:04.284195+00:00"
+  },
+  {
+    "source": "pricerunner",
+    "model": "TCL 55\" P69K 4K LED TV",
+    "size": 55,
+    "price": 6959,
+    "all_time_low": 6565,
+    "previous_price": 6959,
+    "drop_percent": 0.0,
+    "url": "https://www.pricerunner.se/pl/2-3407601088/TV/TCL-55-P69K-4K-LED-TV-priser",
+    "checked_at": "2026-09-30T14:18:04.285149+00:00"
   }
 ]
