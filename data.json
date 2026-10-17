@@ -276,6 +276,17 @@
   },
   {
     "source": "pricerunner",
+    "model": "TCL 55 Inch P6K 4K LED TV",
+    "size": 55,
+    "price": 5990,
+    "all_time_low": 5101,
+    "previous_price": 5990,
+    "drop_percent": 0.0,
+    "url": "https://www.pricerunner.se/pl/2-3521761055/TV/TCL-55-Inch-P6K-4K-LED-TV-priser",
+    "checked_at": "2026-10-16T22:23:31.364506+00:00"
+  },
+  {
+    "source": "pricerunner",
     "model": "TCL 55C6K Pro",
     "size": null,
     "price": 8589,
@@ -283,7 +294,7 @@
     "previous_price": 8589,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3489604449/TV/TCL-55C6K-Pro-55-QD-Mini-LED-priser",
-    "checked_at": "2026-10-16T22:23:31.360255+00:00"
+    "checked_at": "2026-10-17T00:28:36.094403+00:00"
   },
   {
     "source": "pricerunner",
@@ -294,7 +305,7 @@
     "previous_price": 5844,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3409486320/TV/TCL-55-MQLED80K-4K-Mini-Led-TV-priser",
-    "checked_at": "2026-10-16T22:23:31.361909+00:00"
+    "checked_at": "2026-10-17T00:28:36.095980+00:00"
   },
   {
     "source": "pricerunner",
@@ -305,28 +316,17 @@
     "previous_price": 8536,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3489138046/TV/TCL-55a400-Pro-Qd-Mini-Led-Tv-priser",
-    "checked_at": "2026-10-16T22:23:31.362745+00:00"
+    "checked_at": "2026-10-17T00:28:36.097411+00:00"
   },
   {
     "source": "pricerunner",
     "model": "Trendande",
     "size": 55,
-    "price": 9289,
+    "price": 5990,
     "all_time_low": 5144,
     "previous_price": 9289,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3489602508/TV/TCL-55-55A400U-priser",
-    "checked_at": "2026-10-16T22:23:31.363702+00:00"
-  },
-  {
-    "source": "pricerunner",
-    "model": "TCL 55 Inch P6K 4K LED TV",
-    "size": 55,
-    "price": 5990,
-    "all_time_low": 5101,
-    "previous_price": 5990,
-    "drop_percent": 0.0,
+    "drop_percent": 35.5,
     "url": "https://www.pricerunner.se/pl/2-3521761055/TV/TCL-55-Inch-P6K-4K-LED-TV-priser",
-    "checked_at": "2026-10-16T22:23:31.364506+00:00"
+    "checked_at": "2026-10-17T00:28:36.098853+00:00"
   }
 ]
