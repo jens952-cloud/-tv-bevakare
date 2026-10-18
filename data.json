@@ -276,6 +276,17 @@
   },
   {
     "source": "pricerunner",
+    "model": "TCL 55\" MQLED70K 4K Mini-Led TV",
+    "size": 55,
+    "price": 9990,
+    "all_time_low": 5990,
+    "previous_price": 9990,
+    "drop_percent": 0.0,
+    "url": "https://www.pricerunner.se/pl/2-3407599724/TV/TCL-55-MQLED70K-4K-Mini-Led-TV-priser",
+    "checked_at": "2026-10-17T22:18:05.828375+00:00"
+  },
+  {
+    "source": "pricerunner",
     "model": "TCL 55C6K Pro",
     "size": null,
     "price": 8589,
@@ -283,7 +294,7 @@
     "previous_price": 8589,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3489604449/TV/TCL-55C6K-Pro-55-QD-Mini-LED-priser",
-    "checked_at": "2026-10-17T22:18:05.823406+00:00"
+    "checked_at": "2026-10-18T00:27:52.918200+00:00"
   },
   {
     "source": "pricerunner",
@@ -294,7 +305,7 @@
     "previous_price": 5844,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3409486320/TV/TCL-55-MQLED80K-4K-Mini-Led-TV-priser",
-    "checked_at": "2026-10-17T22:18:05.824845+00:00"
+    "checked_at": "2026-10-18T00:27:52.919874+00:00"
   },
   {
     "source": "pricerunner",
@@ -305,7 +316,7 @@
     "previous_price": 9289,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3489602508/TV/TCL-55-55A400U-priser",
-    "checked_at": "2026-10-17T22:18:05.826538+00:00"
+    "checked_at": "2026-10-18T00:27:52.921238+00:00"
   },
   {
     "source": "pricerunner",
@@ -316,17 +327,6 @@
     "previous_price": 8536,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3489138046/TV/TCL-55a400-Pro-Qd-Mini-Led-Tv-priser",
-    "checked_at": "2026-10-17T22:18:05.827571+00:00"
-  },
-  {
-    "source": "pricerunner",
-    "model": "TCL 55\" MQLED70K 4K Mini-Led TV",
-    "size": 55,
-    "price": 9990,
-    "all_time_low": 5990,
-    "previous_price": 9990,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3407599724/TV/TCL-55-MQLED70K-4K-Mini-Led-TV-priser",
-    "checked_at": "2026-10-17T22:18:05.828375+00:00"
+    "checked_at": "2026-10-18T00:27:52.922317+00:00"
   }
 ]
