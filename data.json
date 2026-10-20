@@ -254,17 +254,6 @@
   },
   {
     "source": "pricerunner",
-    "model": "TCL 55 A400 Pro 4K QD Mini-LED TV",
-    "size": null,
-    "price": 8536,
-    "all_time_low": 8290,
-    "previous_price": 8536,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3489138046/TV/TCL-55a400-Pro-Qd-Mini-Led-Tv-priser",
-    "checked_at": "2026-10-18T02:23:20.712107+00:00"
-  },
-  {
-    "source": "pricerunner",
     "model": "Trendande",
     "size": 55,
     "price": 9289,
@@ -294,7 +283,7 @@
     "previous_price": 8589,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3489604449/TV/TCL-55C6K-Pro-55-QD-Mini-LED-priser",
-    "checked_at": "2026-10-20T12:30:23.192943+00:00"
+    "checked_at": "2026-10-20T14:28:00.531309+00:00"
   },
   {
     "source": "pricerunner",
@@ -305,7 +294,7 @@
     "previous_price": 5844,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3409486320/TV/TCL-55-MQLED80K-4K-Mini-Led-TV-priser",
-    "checked_at": "2026-10-20T12:30:23.193652+00:00"
+    "checked_at": "2026-10-20T14:28:00.532881+00:00"
   },
   {
     "source": "pricerunner",
@@ -316,7 +305,7 @@
     "previous_price": 5990,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3521761055/TV/TCL-55-Inch-P6K-4K-LED-TV-priser",
-    "checked_at": "2026-10-20T12:30:23.194297+00:00"
+    "checked_at": "2026-10-20T14:28:00.533626+00:00"
   },
   {
     "source": "pricerunner",
@@ -327,6 +316,17 @@
     "previous_price": 9990,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3407599724/TV/TCL-55-MQLED70K-4K-Mini-Led-TV-priser",
-    "checked_at": "2026-10-20T12:30:23.194945+00:00"
+    "checked_at": "2026-10-20T14:28:00.534333+00:00"
+  },
+  {
+    "source": "pricerunner",
+    "model": "TCL 55 A400 Pro 4K QD Mini-LED TV",
+    "size": null,
+    "price": 8536,
+    "all_time_low": 8290,
+    "previous_price": 8536,
+    "drop_percent": 0.0,
+    "url": "https://www.pricerunner.se/pl/2-3489138046/TV/TCL-55a400-Pro-Qd-Mini-Led-Tv-priser",
+    "checked_at": "2026-10-20T14:28:00.534965+00:00"
   }
 ]
