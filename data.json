@@ -294,7 +294,7 @@
     "previous_price": 8589,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3489604449/TV/TCL-55C6K-Pro-55-QD-Mini-LED-priser",
-    "checked_at": "2026-10-25T10:21:45.880451+00:00"
+    "checked_at": "2026-10-25T12:25:29.261867+00:00"
   },
   {
     "source": "pricerunner",
@@ -305,7 +305,7 @@
     "previous_price": 5990,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3521761055/TV/TCL-55-Inch-P6K-4K-LED-TV-priser",
-    "checked_at": "2026-10-25T10:21:45.882152+00:00"
+    "checked_at": "2026-10-25T12:25:29.264169+00:00"
   },
   {
     "source": "pricerunner",
@@ -316,7 +316,7 @@
     "previous_price": 9990,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3407599724/TV/TCL-55-MQLED70K-4K-Mini-Led-TV-priser",
-    "checked_at": "2026-10-25T10:21:45.883367+00:00"
+    "checked_at": "2026-10-25T12:25:29.265016+00:00"
   },
   {
     "source": "pricerunner",
@@ -324,9 +324,9 @@
     "size": 55,
     "price": 8996,
     "all_time_low": 5144,
-    "previous_price": 8797,
-    "drop_percent": -2.3,
+    "previous_price": 8996,
+    "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3409210898/TV/TCL-55-MQLED85K-4K-Mini-Led-TV-priser",
-    "checked_at": "2026-10-25T10:21:45.884237+00:00"
+    "checked_at": "2026-10-25T12:25:29.265786+00:00"
   }
 ]
