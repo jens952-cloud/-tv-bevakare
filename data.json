@@ -272,7 +272,7 @@
     "previous_price": 5319,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3414475753/TV/TCL-55T69C-55-Inch-4K-QLED-QLED-TV-priser",
-    "checked_at": "2026-10-31T11:51:30.269623+00:00"
+    "checked_at": "2026-10-31T16:58:07.228127+00:00"
   },
   {
     "source": "pricerunner",
@@ -280,10 +280,10 @@
     "size": 55,
     "price": 8450,
     "all_time_low": 5945,
-    "previous_price": 8709,
-    "drop_percent": 3.0,
+    "previous_price": 8450,
+    "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3412707088/TV/TCL-55-C69KS-4K-QD-Mini-LED-Google-TV-priser",
-    "checked_at": "2026-10-31T11:51:30.303121+00:00"
+    "checked_at": "2026-10-31T16:58:07.229967+00:00"
   },
   {
     "source": "pricerunner",
@@ -291,10 +291,10 @@
     "size": null,
     "price": 7927,
     "all_time_low": 7782,
-    "previous_price": 8515,
-    "drop_percent": 6.9,
+    "previous_price": 7927,
+    "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3489604449/TV/TCL-55C6K-Pro-55-QD-Mini-LED-priser",
-    "checked_at": "2026-10-31T11:51:30.321083+00:00"
+    "checked_at": "2026-10-31T16:58:07.230983+00:00"
   },
   {
     "source": "pricerunner",
@@ -305,7 +305,7 @@
     "previous_price": 5990,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3521761055/TV/TCL-55-Inch-P6K-4K-LED-TV-priser",
-    "checked_at": "2026-10-31T11:51:30.343093+00:00"
+    "checked_at": "2026-10-31T16:58:07.231582+00:00"
   },
   {
     "source": "pricerunner",
@@ -316,7 +316,7 @@
     "previous_price": 9990,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3407599724/TV/TCL-55-MQLED70K-4K-Mini-Led-TV-priser",
-    "checked_at": "2026-10-31T11:51:30.365509+00:00"
+    "checked_at": "2026-10-31T16:58:07.232171+00:00"
   },
   {
     "source": "pricerunner",
@@ -327,6 +327,6 @@
     "previous_price": 7250,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3400252642/TV/TCL-55Q6C-55-Zoll-QD-Mini-LED-Fernseher-priser",
-    "checked_at": "2026-10-31T11:51:30.385476+00:00"
+    "checked_at": "2026-10-31T16:58:07.232688+00:00"
   }
 ]
