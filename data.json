@@ -210,61 +210,6 @@
   },
   {
     "source": "pricerunner",
-    "model": "TCL 55 C69KS 4K QD Mini LED Google TV",
-    "size": 55,
-    "price": 8450,
-    "all_time_low": 5945,
-    "previous_price": 8450,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3412707088/TV/TCL-55-C69KS-4K-QD-Mini-LED-Google-TV-priser",
-    "checked_at": "2026-11-01T16:37:59.964485+00:00"
-  },
-  {
-    "source": "pricerunner",
-    "model": "TCL 55C6K Pro",
-    "size": null,
-    "price": 7290,
-    "all_time_low": 7290,
-    "previous_price": 7290,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3489604449/TV/TCL-55C6K-Pro-55-QD-Mini-LED-priser",
-    "checked_at": "2026-11-01T16:37:59.966120+00:00"
-  },
-  {
-    "source": "pricerunner",
-    "model": "TCL 55 55C6KS 55 Inch 4K Ultra HD Smart TV",
-    "size": 55,
-    "price": 6003,
-    "all_time_low": 6003,
-    "previous_price": 6003,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3409744384/TV/TCL-55-55C6KS-55-Inch-4K-Ultra-HD-Smart-TV-priser",
-    "checked_at": "2026-11-01T16:37:59.967016+00:00"
-  },
-  {
-    "source": "pricerunner",
-    "model": "TCL 55 Inch P6K 4K LED TV",
-    "size": 55,
-    "price": 5990,
-    "all_time_low": 5101,
-    "previous_price": 5990,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3521761055/TV/TCL-55-Inch-P6K-4K-LED-TV-priser",
-    "checked_at": "2026-11-01T16:37:59.967884+00:00"
-  },
-  {
-    "source": "pricerunner",
-    "model": "TCL 55\" MQLED70K 4K Mini-Led TV",
-    "size": 55,
-    "price": 9990,
-    "all_time_low": 5990,
-    "previous_price": 9990,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3407599724/TV/TCL-55-MQLED70K-4K-Mini-Led-TV-priser",
-    "checked_at": "2026-11-01T16:37:59.968826+00:00"
-  },
-  {
-    "source": "pricerunner",
     "model": "TCL 55Q6C 55Q6C 55 Inch 4K UHD TV",
     "size": 55,
     "price": 7250,
@@ -361,5 +306,60 @@
     "drop_percent": 0.0,
     "url": "https://clk.klarna.com/se/gotostore/v1/84728b697a6fa9d9299f9c349d25e3d6?clickarea=retailer&refPos=pdp_klui_header_v2_0&pagetype=sp&amplitudeClickId=9cdce0f3-7d68-4a98-8627-4561daa1ed54&clientClickId=9cdce0f3-7d68-4a98-8627-4561daa1ed54",
     "checked_at": "2026-11-01T16:37:59.978972+00:00"
+  },
+  {
+    "source": "pricerunner",
+    "model": "TCL 55 C69KS 4K QD Mini LED Google TV",
+    "size": 55,
+    "price": 8450,
+    "all_time_low": 5945,
+    "previous_price": 8450,
+    "drop_percent": 0.0,
+    "url": "https://www.pricerunner.se/pl/2-3412707088/TV/TCL-55-C69KS-4K-QD-Mini-LED-Google-TV-priser",
+    "checked_at": "2026-11-01T21:48:59.698798+00:00"
+  },
+  {
+    "source": "pricerunner",
+    "model": "TCL 55C6K Pro",
+    "size": null,
+    "price": 7290,
+    "all_time_low": 7290,
+    "previous_price": 7290,
+    "drop_percent": 0.0,
+    "url": "https://www.pricerunner.se/pl/2-3489604449/TV/TCL-55C6K-Pro-55-QD-Mini-LED-priser",
+    "checked_at": "2026-11-01T21:48:59.700544+00:00"
+  },
+  {
+    "source": "pricerunner",
+    "model": "TCL 55 55C6KS 55 Inch 4K Ultra HD Smart TV",
+    "size": 55,
+    "price": 6003,
+    "all_time_low": 6003,
+    "previous_price": 6003,
+    "drop_percent": 0.0,
+    "url": "https://www.pricerunner.se/pl/2-3409744384/TV/TCL-55-55C6KS-55-Inch-4K-Ultra-HD-Smart-TV-priser",
+    "checked_at": "2026-11-01T21:48:59.701859+00:00"
+  },
+  {
+    "source": "pricerunner",
+    "model": "TCL 55 Inch P6K 4K LED TV",
+    "size": 55,
+    "price": 5990,
+    "all_time_low": 5101,
+    "previous_price": 5990,
+    "drop_percent": 0.0,
+    "url": "https://www.pricerunner.se/pl/2-3521761055/TV/TCL-55-Inch-P6K-4K-LED-TV-priser",
+    "checked_at": "2026-11-01T21:48:59.702746+00:00"
+  },
+  {
+    "source": "pricerunner",
+    "model": "TCL 55\" MQLED70K 4K Mini-Led TV",
+    "size": 55,
+    "price": 9990,
+    "all_time_low": 5990,
+    "previous_price": 9990,
+    "drop_percent": 0.0,
+    "url": "https://www.pricerunner.se/pl/2-3407599724/TV/TCL-55-MQLED70K-4K-Mini-Led-TV-priser",
+    "checked_at": "2026-11-01T21:48:59.703835+00:00"
   }
 ]
