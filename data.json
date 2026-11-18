@@ -287,17 +287,6 @@
   },
   {
     "source": "pricerunner",
-    "model": "TCL 55 A400 Pro 4K QD Mini-LED TV",
-    "size": null,
-    "price": 7990,
-    "all_time_low": 7990,
-    "previous_price": 7990,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3489138046/TV/TCL-55a400-Pro-Qd-Mini-Led-Tv-priser",
-    "checked_at": "2026-11-09T23:59:41.157562+00:00"
-  },
-  {
-    "source": "pricerunner",
     "model": "TCL 55 Inch P6K 4K LED TV",
     "size": 55,
     "price": 5990,
@@ -342,28 +331,6 @@
   },
   {
     "source": "pricerunner",
-    "model": "TCL 55\" P69K 4K LED TV",
-    "size": 55,
-    "price": 6373,
-    "all_time_low": 5511,
-    "previous_price": 5511,
-    "drop_percent": -15.6,
-    "url": "https://www.pricerunner.se/pl/2-3407601088/TV/TCL-55-P69K-4K-LED-TV-priser",
-    "checked_at": "2026-11-17T20:35:06.366033+00:00"
-  },
-  {
-    "source": "pricerunner",
-    "model": "-44%",
-    "size": 55,
-    "price": 8990,
-    "all_time_low": 8990,
-    "previous_price": 8990,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3540518372/TV/TCL-55-MQLED80L-4K-QLED-TV-priser",
-    "checked_at": "2026-11-17T20:35:06.367681+00:00"
-  },
-  {
-    "source": "pricerunner",
     "model": "Trendande",
     "size": null,
     "price": 7490,
@@ -372,17 +339,6 @@
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3489138046/TV/TCL-55a400-Pro-Qd-Mini-Led-Tv-priser",
     "checked_at": "2026-11-17T20:35:06.368438+00:00"
-  },
-  {
-    "source": "pricerunner",
-    "model": "TCL 55C6K Pro",
-    "size": null,
-    "price": 7290,
-    "all_time_low": 7290,
-    "previous_price": 7290,
-    "drop_percent": 0.0,
-    "url": "https://www.pricerunner.se/pl/2-3489604449/TV/TCL-55C6K-Pro-55-QD-Mini-LED-priser",
-    "checked_at": "2026-11-17T20:35:06.369170+00:00"
   },
   {
     "source": "pricerunner",
@@ -397,6 +353,50 @@
   },
   {
     "source": "pricerunner",
+    "model": "TCL 55\" P69K 4K LED TV",
+    "size": 55,
+    "price": 5520,
+    "all_time_low": 5511,
+    "previous_price": 6373,
+    "drop_percent": 13.4,
+    "url": "https://www.pricerunner.se/pl/2-3407601088/TV/TCL-55-P69K-4K-LED-TV-priser",
+    "checked_at": "2026-11-18T03:22:45.676058+00:00"
+  },
+  {
+    "source": "pricerunner",
+    "model": "-44%",
+    "size": 55,
+    "price": 8990,
+    "all_time_low": 8990,
+    "previous_price": 8990,
+    "drop_percent": 0.0,
+    "url": "https://www.pricerunner.se/pl/2-3540518372/TV/TCL-55-MQLED80L-4K-QLED-TV-priser",
+    "checked_at": "2026-11-18T03:22:45.677840+00:00"
+  },
+  {
+    "source": "pricerunner",
+    "model": "TCL 55 A400 Pro 4K QD Mini-LED TV",
+    "size": null,
+    "price": 7490,
+    "all_time_low": 7490,
+    "previous_price": 7990,
+    "drop_percent": 6.3,
+    "url": "https://www.pricerunner.se/pl/2-3489138046/TV/TCL-55a400-Pro-Qd-Mini-Led-Tv-priser",
+    "checked_at": "2026-11-18T03:22:45.678699+00:00"
+  },
+  {
+    "source": "pricerunner",
+    "model": "TCL 55C6K Pro",
+    "size": null,
+    "price": 7290,
+    "all_time_low": 7290,
+    "previous_price": 7290,
+    "drop_percent": 0.0,
+    "url": "https://www.pricerunner.se/pl/2-3489604449/TV/TCL-55C6K-Pro-55-QD-Mini-LED-priser",
+    "checked_at": "2026-11-18T03:22:45.679546+00:00"
+  },
+  {
+    "source": "pricerunner",
     "model": "TCL 55T8D 4K QD Mini LED TV",
     "size": null,
     "price": 6990,
@@ -404,7 +404,7 @@
     "previous_price": 6990,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3489243157/TV/TCL-55T8D-4K-QD-Mini-LED-TV-priser",
-    "checked_at": "2026-11-17T20:35:06.370774+00:00"
+    "checked_at": "2026-11-18T03:22:45.680394+00:00"
   },
   {
     "source": "pricerunner",
@@ -415,6 +415,6 @@
     "previous_price": 7990,
     "drop_percent": 0.0,
     "url": "https://www.pricerunner.se/pl/2-3412290853/TV/TCL-55-T8C-4K-QLED-Google-TV-priser",
-    "checked_at": "2026-11-17T20:35:06.371440+00:00"
+    "checked_at": "2026-11-18T03:22:45.681235+00:00"
   }
 ]
